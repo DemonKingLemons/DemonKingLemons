@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, my name is lemons
 
 <!--
 **DemonKingLemons/DemonKingLemons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a game dev, who does random shit
+I like to swear
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I have a podcast
+
+Don't touch my shit
+
+## ⚡ Fun fact: Bruh momento
+
+## Lemons out
+
 -->
